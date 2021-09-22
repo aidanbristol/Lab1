@@ -1,0 +1,45 @@
+ 
+ Printing Stocks in the order declared
+ Microsoft - MSFT
+ Purchase Price: 294.8
+ 
+ Hillebrand - HI
+ Purchase Price: 40.98
+ 
+ Alphabet - GOOG
+ Purchase Price: 2792.93
+ 
+ Apple Inc - APPL
+ Purchase Price: 143.43
+ 
+ 
+ 
+ Printing Stocks after sorting based on the natural order
+ Alphabet - GOOG
+ Purchase Price: 2792.93
+ 
+ Apple Inc - APPL
+ Purchase Price: 143.43
+ 
+ Hillebrand - HI
+ Purchase Price: 40.98
+ 
+ Microsoft - MSFT
+ Purchase Price: 294.8
+ 
+ 
+ 
+ Printing Stocks after sorting based on the total order
+ Hillebrand - HI
+ Purchase Price: 40.98
+ 
+ Apple Inc - APPL
+ Purchase Price: 143.43
+ 
+ Microsoft - MSFT
+ Purchase Price: 294.8
+ 
+ Alphabet - GOOG
+ Purchase Price: 2792.93
+
+ 
