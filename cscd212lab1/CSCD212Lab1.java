@@ -2,8 +2,8 @@ package cscd212lab1;
 
 import java.io.*;
 import java.util.*;
-import cscd212classes.lab1.Stock;
-import cscd212comparators.lab1.StockPriceComparator;
+import cscd212package.Stock;
+import cscd212package.StockPriceComparator;
 
 /**
  * The provided testing class to verify your code is correct
